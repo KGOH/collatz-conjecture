@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13f15391-b93a-4e8b-b745-2e93f0c6a41f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="collatz-conjecture" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="core.clj" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/core.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+              <folding>
+                <element signature="e#1628#3041#0" expanded="false" />
+                <element signature="e#3043#5123#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misc.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/misc.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mymiddleware.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/mymiddleware.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>0.01</find>
+      <find>depth</find>
+      <find>reset-max-depth</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>0.1</replace>
+      <replace>max-val</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/src/collatz_conjecture/misc.clj" />
+        <option value="$PROJECT_DIR$/src/collatz_conjecture/scratch.clj" />
+        <option value="$PROJECT_DIR$/src/collatz_conjecture/core.clj" />
+        <option value="$PROJECT_DIR$/src/collatz_conjecture/mymiddleware.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="18" />
+    <option name="width" value="1633" />
+    <option name="height" value="1062" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collatz-conjecture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collatz-conjecture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collatz-conjecture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collatz-conjecture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collatz_conjecture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$USER_HOME$/projects/maze" />
+    <property name="cursive.last.file.extension./home/puck/Desktop/collatz-conjecture/src" value="clj" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/puck/Desktop/collatz-conjecture/src/collatz_conjecture/scratch.clj" />
+  </component>
+  <component name="ReplState" timestamp="1493063903555">{:repl-history {:ide [], :local [&quot;(take 10\n  (cycle\n    (for [s (linspace 0 3 10)\n          r (linspace 0 5 10)\n          h (linspace 0 2 10)\n          g (linspace 0.1 2 10)]\n      {:s s, :r r, :h h, :g g})))&quot; &quot;(rest\n  (take 10\n    (cycle\n      (for [s (linspace 0 3 10)\n            r (linspace 0 5 10)\n            h (linspace 0 2 10)\n            g (linspace 0.1 2 10)]\n        {:s s, :r r, :h h, :g g}))))&quot; &quot;(defn setup-astro-intensity []\n  (q/frame-rate 120)\n  (cycle\n    (for [g [1] ;(linspace 0.1 2 10)\n          h [0.5] ;(linspace 0 2 10)\n          s (linspace 0 3 100)\n          r (concat (linspace 0 3 50) (reverse (linspace 3 0 50)))]\n      {:s s, :r r, :h h, :g g})))&quot; &quot;(linspace 3 0 50)&quot; &quot;(count\n  (for [g (linspace 0.1 2 10)\n        r (concat (linspace 0 5 25) (linspace 5 0 24))\n        s (linspace 0 3 9)\n        h (concat (linspace 0 2 10) (linspace 2 0 9))]\n    (for [l (linspace 0 1 (q/width))]\n      1)))&quot; &quot;(count\n  (for [g (linspace 0.1 2 10)\n        r (concat (linspace 0 5 25) (linspace 5 0 24))\n        s (linspace 0 3 9)\n        h (concat (linspace 0 2 10) (linspace 2 0 9))]\n    (for [l (linspace 0 1 256)]\n      1)))&quot; &quot;(count\n  (cycle\n    (for [g (linspace 0.8 1.2 3)\n          r (concat (linspace 0 5 25) (linspace 5 0 24))\n          s (linspace 0 3 9)\n          h (concat (linspace 0 2 10) (linspace 2 0 9))]\n      (for [l (linspace 0 1 (q/width))]\n        1))))&quot; &quot;(count\n  (cycle\n    (for [g (linspace 0.8 1.2 3)\n          r (concat (linspace 0 5 25) (linspace 5 0 24))\n          s (linspace 0 3 9)\n          h (concat (linspace 0 2 10) (linspace 2 0 9))]\n      (for [l (linspace 0 1 512)]\n        1))))&quot; &quot;(cycle\n  (count\n    (for [g (linspace 0.8 1.2 3)\n          r (concat (linspace 0 5 25) (linspace 5 0 24))\n          s (linspace 0 3 9)\n          h (concat (linspace 0 2 10) (linspace 2 0 9))]\n      (for [l (linspace 0 1 512)]\n        1))))&quot; &quot;(cycle\n  (count\n    (for [g (linspace 0.8 1.2 3)\n          r (concat (linspace 0 5 25) (linspace 5 0 24))\n          s (linspace 0 3 9)\n          h (concat (linspace 0 2 10) (linspace 2 0 9))]\n      (for [l (range 512)]\n        1))))&quot; &quot;(count\n  (for [g (linspace 0.8 1.2 3)\n        r (concat (linspace 0 5 25) (linspace 5 0 24))\n        s (linspace 0 3 9)\n        h (concat (linspace 0 2 10) (linspace 2 0 9))]\n    (for [l (linspace 0 1 512)]\n        1)))&quot; &quot;(count\n  (for [g [1];(linspace 0.8 1.2 3)\n        r [1];(concat (linspace 0 5 25) (linspace 5 0 24))\n        s [2];(linspace 0 3 9);(linspace 0 3 9)\n        h (concat (linspace 0.5 1.5 15) (linspace 1.5 0.5 14))] ;(concat (linspace 0 2 10) (linspace 2 0 9))]\n    (for [l (linspace 0 1 (q/width))]\n      (astro-intensity l s r h g))))&quot; &quot;(count\n  (for [g [1];(linspace 0.8 1.2 3)\n        r [1];(concat (linspace 0 5 25) (linspace 5 0 24))\n        s [2];(linspace 0 3 9);(linspace 0 3 9)\n        h (concat (linspace 0.5 1.5 15) (linspace 1.5 0.5 14))] ;(concat (linspace 0 2 10) (linspace 2 0 9))]\n    (for [l (linspace 0 1 512)]\n      (astro-intensity l s r h g))))&quot; &quot;(count\n  (for [g [1];(linspace 0.8 1.2 3)\n        r (concat (linspace 1 3 24) (linspace 3 1 24)) ;(concat (linspace 0 5 25) (linspace 5 0 24))\n        s [2];(linspace 0 3 9);(linspace 0 3 9)\n        h (concat (linspace 0.4 0.8 15) (linspace 0.8 0.4 14))] ;(concat (linspace 0 2 10) (linspace 2 0 9))]\n    (for [l (linspace 0 1 (q/width))]\n      (astro-intensity l s r h g))))&quot; &quot;(count\n  (for [g [1];(linspace 0.8 1.2 3)\n        r (concat (linspace 1 3 24) (linspace 3 1 24)) ;(concat (linspace 0 5 25) (linspace 5 0 24))\n        s [2];(linspace 0 3 9);(linspace 0 3 9)\n        h (concat (linspace 0.4 0.8 15) (linspace 0.8 0.4 14))] ;(concat (linspace 0 2 10) (linspace 2 0 9))]\n    (for [l (linspace 0 1 512)]\n      (astro-intensity l s r h g))))&quot; &quot;(count\n  (for [g [1]                                 ;(linspace 0.8 1.2 3)\n        r (concat (linspace 1 3 24) (linspace 3 1 24)) ;(concat (linspace 0 5 25) (linspace 5 0 24))\n        h (linspace 0.4 0.8 15) ;(concat (linspace 0 2 10) (linspace 2 0 9))]\n        s (linspace 0 3 9)] ;(linspace 1 3 9)\n    (for [l (linspace 0 1 (q/width))]\n      (astro-intensity l s r h g))))&quot; &quot;(count\n  (for [g [1]                                 ;(linspace 0.8 1.2 3)\n        r (concat (linspace 1 3 24) (linspace 3 1 24)) ;(concat (linspace 0 5 25) (linspace 5 0 24))\n        h (linspace 0.4 0.8 15) ;(concat (linspace 0 2 10) (linspace 2 0 9))]\n        s (linspace 0 3 9)] ;(linspace 1 3 9)\n    (for [l (linspace 0 1 512)]\n      (astro-intensity l s r h g))))&quot; &quot;(count\n  (for [g [1]                                 ;(linspace 0.8 1.2 3)\n        r (concat (linspace 1 3 24) (linspace 3 1 24)) ;(concat (linspace 0 5 25) (linspace 5 0 24))\n        h (linspace 0.4 0.8 15) ;(concat (linspace 0 2 10) (linspace 2 0 9))]\n        s (linspace 0 3 9)] ;(linspace 1 3 9)\n    (for [l (linspace 0 1 128)]\n      (astro-intensity l s r h g))))&quot; &quot;(defn astro-intensity [l s r h g]\n  (let [psi (* 2 q/PI (+ (/ s 3) (* r l)))\n        lg (q/pow l g)\n        a (* h lg (/ (- 1 lg) 2))]\n    (-&gt;&gt; (m/* a\n              (m/matrix [[-0.14861 1.78277]\n                         [-0.29227 -0.90649]\n                         [1.97294 0.0]])\n              (m/matrix [[(q/cos psi)] [(m/sin psi)]]))\n         (m/+ lg)\n         (m/* 255)\n         (m/map q/round)\n         (m/to-vecs)\n         (flatten))))&quot; &quot;(defn astro-intensity [l s r h g]\n  (let [psi (* 2 q/PI (+ (/ s 3) (* r l)))\n        lg (q/pow l g)\n        a (* h lg (/ (- 1 lg) 2))]\n    (-&gt;&gt; (m/* a\n              (m/matrix [[-0.14861 1.78277]\n                         [-0.29227 -0.90649]\n                         [1.97294 0.0]])\n              (m/matrix [[(q/cos psi)] [(q/sin psi)]]))\n         (m/+ lg)\n         (m/* 255)\n         (m/map q/round)\n         (m/to-vecs)\n         (flatten))))&quot; &quot;(defn astro-intensity [l s r h g]\n  (let [psi (* 2 q/PI (+ (/ s 3) (* r l)))\n        lg (q/pow l g)]\n    (-&gt;&gt; (m/* (* h lg (/ (- 1 lg) 2))\n              (m/matrix [[-0.14861 1.78277]\n                         [-0.29227 -0.90649]\n                         [1.97294 0.0]])\n              (m/matrix [[(q/cos psi)] [(q/sin psi)]]))\n         (m/+ lg)\n         (m/* 255)\n         (m/map q/round)\n         m/to-vecs\n         flatten)))&quot; &quot;(defn astro-intensity [l s r h g]\n  (let [psi (* 2 q/PI (+ (/ s 3) (* r l)))\n        lg (q/pow l g)]\n    (-&gt;&gt; (m/* (* h lg (/ (- 1 lg) 2))\n              (m/matrix [[-0.14861 1.78277]\n                         [-0.29227 -0.90649]\n                         [1.97294 0.0]])\n              (m/matrix [[(q/cos psi)] [(q/sin psi)]]))\n         (m/+ lg)\n         (m/* 255)\n         (m/map q/round)\n         (m/to-vecs)\n         (flatten))))&quot; &quot;(astro-intensity 0.5 2 3 1 1)&quot; &quot;(let [a 1]\n  (a 2))&quot; &quot;(let [a 1]\n  (list a 2))&quot; &quot;(let [a identity]\n  (a 2))&quot; &quot;(let [m {:a \&quot;a\&quot;, 0 \&quot;0\&quot;}]\n  (:a m))&quot; &quot;(let [m {:a \&quot;a\&quot;, 0 \&quot;0\&quot;}]\n  (map #(print (% m)) (m keys)))&quot; &quot;(let [m {:a \&quot;a\&quot;, 0 \&quot;0\&quot;}]\n  (doseq [key (keys m)]\n    (key m)))&quot; &quot;(let [m {:a \&quot;a\&quot;, 0 \&quot;0\&quot;}]\n  (doseq [key (keys m)]\n    (m key)))&quot; &quot;(let [m {:a \&quot;a\&quot;, 0 \&quot;0\&quot;}]\n  (doseq [key (keys m)]\n    (print (key m) \\space)))&quot; &quot;(let [m {:a \&quot;a\&quot;, 0 \&quot;0\&quot;}]\n  (doseq [key (keys m)]\n    (print (m key) \\space)))&quot; &quot;(let [m {:a \&quot;a\&quot;, 0 \&quot;0\&quot;}]\n  (doseq [key (keys m)]\n    (print (m key))))&quot; &quot;(let [m {:a \&quot;a\&quot;, 0 \&quot;0\&quot;}]\n  (doseq [key (keys m)]\n    (print (key m) \&quot; \&quot;))\n  (println))&quot; &quot;(let [m {:a \&quot;a\&quot;, 0 \&quot;0\&quot;}]\n  (doseq [key (keys m)]\n    (print (m key) \&quot; \&quot;))\n  (println))&quot; &quot;(let [m {:a \&quot;a\&quot;, 0 \&quot;0\&quot;}]\n  (doseq [key (keys m)]\n    (print (m key) \&quot; \&quot;)))&quot; &quot;(let [m {:a \&quot;a\&quot;, 0 \&quot;0\&quot;}]\n  (doseq [key (keys m)]\n    (print (key m) \&quot; \&quot;)))\n  &quot; &quot;(defn radix-sort [num-seq]\n  (loop [radix-seq (map (fn [num] {:num num :quot num}) num-seq)]\n    (if (every? zero? (map #(quot (:quot %) 10) radix-seq))\n      radix-seq\n      (recur\n        (loop [new-seq (vec (repeat 10 []))\n               old-seq radix-seq]\n          (if (empty? old-seq)\n            new-seq\n            (recur\n              (update\n                new-seq\n                (mod (:quot (first old-seq)) 10)\n                (fn [bucket]\n                  (let [num (:num (first old-seq))\n                        quot1 (:quot (first old-seq))]\n                    (conj bucket {:num num :quot (if (zero? (quot quot1 10))\n                                                   quot1\n                                                   (quot quot1 10))}))))\n              (rest old-seq))))))))&quot; &quot;(defn radix-sort [num-seq]\n  (loop [radix-seq (map (fn [num] {:num num :quot num}) num-seq)]\n    (println radix-seq)\n    (if (every? zero? (map #(quot (:quot %) 10) radix-seq))\n      radix-seq\n      (recur\n        (loop [new-seq (vec (repeat 10 []))\n               old-seq radix-seq]\n          (if (empty? old-seq)\n            new-seq\n            (recur\n              (update\n                new-seq\n                (mod (:quot (first old-seq)) 10)\n                (fn [bucket]\n                  (let [num (:num (first old-seq))\n                        quot1 (:quot (first old-seq))]\n                    (conj bucket {:num num :quot (if (zero? (quot quot1 10))\n                                                   quot1\n                                                   (quot quot1 10))}))))\n              (rest old-seq))))))))&quot; &quot;(let [num-seq [27 17 13]]\n  (radix-sort num-seq))&quot; &quot;(defn draw-branch [step node pos]\n  (when (pos? step)\n    (let [next-step (dec step)]\n      (apply q/stroke (proportional-map 0 30 0 1 10))\n      (if-let [n (try-fork node)]\n        (do\n          (draw-branch next-step n (draw-line pos next-step -12))\n          (recur next-step (* 2 node) (draw-line pos next-step 12)))\n        (recur next-step (* 2 node) (draw-line pos next-step 2))))))&quot; &quot;(proportional-map 0 30 0 1 10)&quot; &quot;(defn draw-branch [step node pos]\n  (q/text (str node) (:x pos) (:y pos))\n  (when (pos? step)\n    (let [next-step (dec step)]\n      (apply q/stroke (my-color-scheme (proportional-map 0 25 0.2 0.8 step)))\n      (if-let [n (try-fork node)]\n        (do\n          (draw-branch next-step n (draw-line pos step 12))\n          (recur next-step (* 2 node) (draw-line pos step 0)))\n        (recur next-step (* 2 node) (draw-line pos step 0))))))&quot; &quot;(proportional-map 0 20 0.2 0.8 14)&quot; &quot;13&quot; &quot;(proportional-map 0 20 0.2 0.8 13)&quot; &quot;(my-color-scheme (proportional-map 0 20 0.2 0.8 13))&quot; &quot;(my-color-scheme (proportional-map 0 20 0.2 0.8 14))&quot; &quot;(q/defsketch collatz-conjecture\n             :size [1920 1080]\n             :setup setup\n             :update update-state\n             :draw draw-state\n             :info-provider info-provider\n             :middleware [m/fun-mode m/navigation-2d])&quot; &quot;(defn draw-branch [depth {:keys [odd even not-forks] :as declinations} step node pos]\n  (when (&lt; node depth)\n    (let [color (my-color-scheme (proportional-map 1 175 0 1 (- depth step)))\n          width (proportional-map 1 175 5 0.1 (- depth step))\n          len 6; (proportional-map depth 7930 10 1 step)\n          next-step (dec step)]\n      (if-let [n (try-fork node)]\n        (do\n          (draw-branch depth declinations next-step n (draw-line pos odd len color width))\n          (recur depth declinations next-step (* 2 node) (draw-line pos even len color width)))\n        (recur depth declinations next-step (* 2 node) (draw-line pos not-forks len color width))))))&quot; &quot;(q/defsketch collatz-conjecture\n             :size [600 400]\n             :setup setup\n             :update update-state\n             :draw draw-state\n             :info-provider info-provider\n             :middleware [m/fun-mode m/navigation-2d])&quot; &quot;(q/defsketch collatz-conjecture\n             :size [800 600]\n             :setup setup\n             :update update-state\n             :draw draw-state\n             :info-provider info-provider\n             :middleware [m/fun-mode m/navigation-2d])&quot; &quot;(q/defsketch collatz-conjecture\n             :size [1000 500]\n             :setup setup\n             :update update-state\n             :draw draw-state\n             :info-provider info-provider\n             :middleware [m/fun-mode m/navigation-2d])&quot; &quot;(linspace 0.02 -0.02 50) &quot; &quot;(defn draw-branch [depth {:keys [odd even not-forks] :as declinations} step node pos]\n  (when (&lt; node depth)\n    (let [color (my-color-scheme (proportional-map 1 175 0 1 (- depth step)))\n          width (proportional-map 1 175 2.6 0.1 (- depth step))\n          len 10; (proportional-map depth 7930 10 1 step)\n          next-step (dec step)]\n      (if-let [n (try-fork node)]\n        (do\n          (draw-branch depth declinations next-step n (draw-line pos odd len color width))\n          (recur depth declinations next-step (* 2 node) (draw-line pos even len color width)))\n        (recur depth declinations next-step (* 2 node) (draw-line pos not-forks len color width))))))&quot; &quot;(defn draw-branch [depth {:keys [odd even not-forks] :as declinations} step node pos]\n  (when (&lt; node depth)\n    (let [color (my-color-scheme (proportional-map 1 175 0 1 (- depth step)))\n          width (proportional-map 1 175 2.6 0.1 (- depth step))\n          len 9; (proportional-map depth 7930 10 1 step)\n          next-step (dec step)]\n      (if-let [n (try-fork node)]\n        (do\n          (draw-branch depth declinations next-step n (draw-line pos odd len color width))\n          (recur depth declinations next-step (* 2 node) (draw-line pos even len color width)))\n        (recur depth declinations next-step (* 2 node) (draw-line pos not-forks len color width))))))&quot; &quot;(defn draw-branch [depth {:keys [odd even not-forks] :as declinations} step node pos]\n  (when (&lt; node depth)\n    (let [color (my-color-scheme (proportional-map 1 175 0 1 (- depth step)))\n          width (proportional-map 1 175 2.6 0.1 (- depth step))\n          len 8; (proportional-map depth 7930 10 1 step)\n          next-step (dec step)]\n      (if-let [n (try-fork node)]\n        (do\n          (draw-branch depth declinations next-step n (draw-line pos odd len color width))\n          (recur depth declinations next-step (* 2 node) (draw-line pos even len color width)))\n        (recur depth declinations next-step (* 2 node) (draw-line pos not-forks len color width))))))&quot; &quot;(defn draw-state [{:keys [depth root decl]}]\n  (q/background 255 255 255)\n  (q/text-size 2)\n  (q/stroke 0 0 0)\n  (draw-branch\n    depth\n    {:odd (+ 8.5 (first decl)),\n     :even (+ -20 (nth decl 15))\n     :not-forks (+ -2.8 (nth decl 10))}\n    depth\n    root\n    {:angle 20, :x 50, :y 600}))&quot; &quot;(defn draw-state [{:keys [depth root decl]}]\n  (q/background 255 255 255)\n  (q/text-size 2)\n  (q/stroke 0 0 0)\n  (draw-branch\n    depth\n    {:odd (+ 8.5 (first decl)),\n     :even (+ -20 (nth decl 15))\n     :not-forks (+ -2.8 (nth decl 10))}\n    depth\n    root\n    {:angle 20, :x 75, :y 600}))&quot; &quot;(defn draw-state [{:keys [depth root decl]}]\n  (q/background 255 255 255)\n  (q/text-size 2)\n  (q/stroke 0 0 0)\n  (draw-branch\n    depth\n    {:odd (+ 8.5 (first decl)),\n     :even (+ -20 (nth decl 15))\n     :not-forks (+ -2.8 (nth decl 10))}\n    depth\n    root\n    {:angle 20, :x 75, :y 650}))&quot; &quot;(defn draw-state [{:keys [depth root decl]}]\n  (q/background 255 255 255)\n  (q/text-size 2)\n  (q/stroke 0 0 0)\n  (draw-branch\n    depth\n    {:odd (+ 8.5 (first decl)),\n     :even (+ -20 (nth decl 15))\n     :not-forks (+ -2.8 (nth decl 10))}\n    depth\n    root\n    {:angle 20, :x 75, :y 640}))&quot; &quot;(defn draw-state [{:keys [depth root decl]}]\n  (q/background 255 255 255)\n  (q/text-size 2)\n  (q/stroke 0 0 0)\n  (draw-branch\n    depth\n    {:odd (+ 8.5 (first decl)),\n     :even (+ -20 (nth decl 15))\n     :not-forks (+ -2.8 (nth decl 10))}\n    depth\n    root\n    {:angle 20, :x 75, :y 630}))&quot; &quot;(defn draw-state [{:keys [depth root decl]}]\n  (q/background 255 255 255)\n  (q/text-size 2)\n  (q/stroke 0 0 0)\n  (draw-branch\n    depth\n    {:odd (+ 8.5 (first decl)),\n     :even (+ -20 (nth decl 15))\n     :not-forks (+ -2.8 (nth decl 10))}\n    depth\n    root\n    {:angle 20, :x 75, :y 620}))&quot; &quot;(defn draw-state [{:keys [depth root decl]}]\n  (q/background 255 255 255)\n  (q/text-size 2)\n  (q/stroke 0 0 0)\n  (draw-branch\n    depth\n    {:odd (+ 8.5 (first decl)),\n     :even (+ -20 (nth decl 15))\n     :not-forks (+ -2.8 (nth decl 10))}\n    depth\n    root\n    {:angle 20, :x 80, :y 620}))&quot; &quot;(q/defsketch collatz-conjecture\n             :size [1334 750]\n             :setup setup\n             :update update-state\n             :draw draw-state\n             :info-provider info-provider\n             :middleware [m/fun-mode\n                          ;record-gif])\n                          m/navigation-2d])&quot; &quot;(defn draw-state [{:keys [depth root decl angles]}]\n  (q/background 255 255 255)\n  (draw-branch\n    depth\n    (-&gt; angles\n        (update :odd (partial + (nth decl 15)))\n        (update :even (partial + (first decl)))\n        (update :not-forks (partial + (nth decl 7))))\n    depth\n    root\n    {:angle (:init angles), :x 80, :y 320}))&quot; &quot;(defn draw-state [{:keys [depth root decl angles]}]\n  (q/background 255 255 255)\n  (draw-branch\n    depth\n    (-&gt; angles\n        (update :odd (partial + (nth decl 15)))\n        (update :even (partial + (first decl)))\n        (update :not-forks (partial + (nth decl 7))))\n    depth\n    root\n    {:angle (:init angles), :x 40, :y 320}))&quot; &quot;(defn reset-values [state]\n  (merge state (:defaults state)))&quot; &quot;(defn setup []\n  (q/frame-rate 30)\n  (-&gt; {:show-info    {:frame-rate true}\n       :defaults     {:depth  20000\n                      :root   1\n                      :angles {:init      20\n                               :not-forks -2.8\n                               :even      -20\n                               :odd       8.5}}\n       :decl         (cycle (concat\n                              (repeat 15 -0.02) (linspace -0.02 0.02 50)\n                              (repeat 14 0.02) (linspace 0.02 -0.02 49)))\n       :key-bindings {81 :dec-not-forks-angle\n                      87 :reset-not-forks-angle\n                      69 :inc-not-forks-angle\n                      65 :dec-even-angle\n                      83 :reset-even-angle\n                      68 :inc-even-angle\n                      90 :dec-odd-angle\n                      88 :reset-odd-angle\n                      67 :inc-odd-angle\n                      82 :inc-init-angle\n                      84 :reset-init-angle\n                      89 :dec-init-angle\n                      70 :inc-root\n                      71 :reset-root\n                      72 :dec-root\n                      86 :inc-depth\n                      66 :reset-depth\n                      78 :dec-depth}}\n      (reset-values)))&quot; &quot;(ns collatz-conjecture.scratch\n  (:require [clojure.zip :as zip]\n            [collatz-conjecture.misc :refer [height]]))&quot; &quot;c&quot; &quot;(zip/branch? c)&quot; &quot;(-&gt; c \n    (zip/next))&quot; &quot;(-&gt; c \n    (zip/down))&quot; &quot;(defn children-locs [loc]\n  (take-while (zip/down loc)))&quot; &quot;(defn children-locs [loc]\n  (loop [loc (zip/down loc)\n         children []]\n    (if-let [child (zip/right loc)]\n      (recur child (conj children child))\n      children)))&quot; &quot;(-&gt; c \n    (zip/children))&quot; &quot;(-&gt; c \n    (children-loc))&quot; &quot;(ns collatz-conjecture.scratch\n  (:require [clojure.zip :as zip]\n            [collatz-conjecture.misc :refer [height children-loc]]))&quot; &quot;(-&gt; c\n    (children-loc))&quot; &quot;(-&gt; c\n    (children-locs))&quot; &quot;(println (zip/children c))&quot; &quot;(defn children-locs [loc]\n  (loop [loc (zip/down loc)\n         children [loc]]\n    (if-let [child (zip/right loc)]\n      (recur child (conj children child))\n      children)))&quot; &quot;(defn children-locs [loc]\n  (loop [loc (zip/down loc)\n         children [loc]]\n    (if-let [next-child (zip/right loc)]\n      (recur next-child (conj children next-child))\n      children)))&quot; &quot;(println (children-locs c))&quot; &quot;(defn height [loc]\n  (if (zip/branch? loc)\n    (inc (apply max (map height (children-locs loc))))\n    0))&quot; &quot;(defn сollatz-conj-branch? [x]\n  (&lt; 0 x 20000))&quot; &quot;(def c (zip/zipper сollatz-conj-branch? сollatz-conj-children nil 16))&quot; &quot;(println (height c))&quot; &quot;(defn draw-branch\n  ([max-depth declinations node pos]\n   (draw-branch max-depth declinations node pos 0))\n  ([max-depth {:keys [odd even not-forks] :as declinations} node pos step]\n   (if (zip/branch? node)\n     (q/text (str (zip/node node)) (:x pos) (:y pos))\n     (let [next-node (zip/next node)\n           next-len 4                                       ;(proportional-map max-val 7930 10 1 step)\n           next-color (my-color-scheme-memo (proportional-map 0 20000 0 1 (zip/node next-node)))\n           next-step (inc step)\n           next-width (proportional-map 0 max-depth 1.3 0.1 next-step)]\n       (if (= 2 (count (zip/children node)))\n         (do\n           (draw-branch max-depth declinations next-node (draw-line pos odd next-len next-color next-width) next-step)\n           (let [next-node (zip/right next-node)\n                 next-color (my-color-scheme-memo (proportional-map 0 20000 0 1 (zip/node next-node)))]\n             (recur max-depth declinations next-node (draw-line pos even next-len next-color next-width) next-step)))\n         (recur max-depth declinations next-node (draw-line pos not-forks next-len next-color next-width) next-step))))))&quot; &quot;(defn draw-state [{:keys [zipper decl angles max-depth max-val]}]\n  (q/background 255 255 255)\n  ;(q/fill 0 0 0)\n  ;(q/text-size 5)\n  (draw-branch\n    max-depth\n    (-&gt; angles\n        (update :odd (partial + (nth decl 15)))\n        (update :even (partial + (first decl)))\n        (update :not-forks (partial + (nth decl 7))))\n    zipper\n    {:angle (angles :init), :x 40, :y 320}))&quot; &quot;(defn draw-state [{:keys [zipper decl angles max-depth max-val]}]\n  (q/background 255 255 255)\n  (q/fill 0 0 0)\n  (q/text-size 5)\n  (draw-branch\n    max-depth\n    (-&gt; angles\n        (update :odd (partial + (nth decl 15)))\n        (update :even (partial + (first decl)))\n        (update :not-forks (partial + (nth decl 7))))\n    zipper\n    {:angle (angles :init), :x 40, :y 320}))&quot; &quot;(defn draw-branch\n  ([max-depth declinations node pos]\n   (draw-branch max-depth declinations node pos 0))\n  ([max-depth {:keys [odd even not-forks] :as declinations} node pos step]\n   (if (zip/branch? node)\n     ;(q/text (str (zip/node node)) (:x pos) (:y pos))\n     (let [next-node (zip/next node)\n           next-len 4                                       ;(proportional-map max-val 7930 10 1 step)\n           next-color (my-color-scheme-memo (proportional-map 0 20000 0 1 (zip/node next-node)))\n           next-step (inc step)\n           next-width (proportional-map 0 max-depth 1.3 0.1 next-step)]\n       (if (= 2 (count (zip/children node)))\n         (do\n           (draw-branch max-depth declinations next-node (draw-line pos odd next-len next-color next-width) next-step)\n           (let [next-node (zip/right next-node)\n                 next-color (my-color-scheme-memo (proportional-map 0 20000 0 1 (zip/node next-node)))]\n             (recur max-depth declinations next-node (draw-line pos even next-len next-color next-width) next-step)))\n         (recur max-depth declinations next-node (draw-line pos not-forks next-len next-color next-width) next-step))))))&quot; &quot;(defn draw-branch\n  ([max-depth declinations node pos]\n   (draw-branch max-depth declinations node pos 0))\n  ([max-depth {:keys [odd even not-forks] :as declinations} node pos step]\n   (if (zip/branch? node)\n     ;(q/text (str (zip/node node)) (:x pos) (:y pos))\n     (let [next-node (zip/next node)\n           next-step (inc step)\n           next-len 8\n           next-color (my-color-scheme-memo (proportional-map 0 max-depth 0 1 step))\n           next-height (height next-node)\n           next-opacity (proportional-map 0 (- max-depth next-step) 127 255 next-height)\n           next-color (concat next-color [next-opacity])\n           _ (println next-height \&quot; \&quot; next-step)\n           next-width (proportional-map 0 next-height 2 0.5 next-step)]                                       ;(proportional-map max-val 7930 10 1 step)\n       (if (= 2 (count (zip/children node)))\n         (do\n           (draw-branch max-depth declinations next-node (draw-line pos odd next-len next-color next-width) next-step)\n           (let [next-node (zip/right next-node)\n                 next-color (my-color-scheme-memo (proportional-map 0 max-depth 0 1 step))\n                 next-height (height next-node)\n                 next-opacity (proportional-map 0 (- max-depth next-step) 127 255 next-height)\n                 next-color (concat next-color [next-opacity])\n                 next-width (proportional-map 0 next-height 2 0.5 next-step)]\n             (recur max-depth declinations next-node (draw-line pos even next-len next-color next-width) next-step)))\n         (recur max-depth declinations next-node (draw-line pos not-forks next-len next-color next-width) next-step))))))&quot; &quot;(q/defsketch collatz-conjecture\n             :size [1334 750]\n             :setup setup\n             :update update-state\n             :key-pressed key-pressed\n             :draw draw-state\n             :info-provider info-provider\n             :middleware [m/fun-mode\n                          show-info])&quot; &quot;(q/defsketch collatz-conjecture\n             :size [1334 750]\n             :setup setup\n             ;:update update-state\n             :key-pressed key-pressed\n             :draw draw-state\n             :info-provider info-provider\n             :middleware [m/fun-mode])&quot; &quot;(q/defsketch collatz-conjecture\n             :size [1334 750]\n             :setup setup\n             ;:update update-state\n             :key-pressed key-pressed\n             :draw draw-state\n             :info-provider info-provider\n             :middleware [m/fun-mode\n                          ;show-info])\n                          ;record-gif])\n                          m/navigation-2d])&quot; &quot;(defn update-state [state]\n  (println (:flag state) (:max-val state))\n  (-&gt; state\n      (update :decl rest)\n      (update :max-val (partial (if (:flag state) + -) 100))\n      (cond-&gt;\n        (or (and (:flag state) (&gt;= (:max-val state) 600))\n            (and (not (:flag state)) (&lt;= (:max-val state) 100)))\n        (update :flag not))\n      (reset-collatz-zipper)\n      (reset-max-depth)))&quot; &quot;(defn update-state [state]\n  (println (:flag state) (:max-val state))\n  (-&gt; state\n      (update :decl rest)\n      (cond-&gt;\n        (or (and (:flag state) (&gt;= (:max-val state) 600))\n            (and (not (:flag state)) (&lt;= (:max-val state) 100)))\n        (update :flag not))\n      (update :max-val (partial + (if (:flag state) +100 -100)))\n      (reset-collatz-zipper)\n      (reset-max-depth)))&quot; &quot;(defn update-state [state]\n  (-&gt; (cond-&gt; state\n        (or (and (:flag state) (&gt;= (:max-val state) 600))\n            (and (not (:flag state)) (&lt;= (:max-val state) 100)))\n        (update :flag not))\n      #(update % :max-val (partial + (if (:flag %) +100 -100)))\n      (reset-collatz-zipper)\n      (reset-max-depth)\n      (update :decl rest)))&quot; &quot;(defn record-gif [options]\n  (let [draw (:draw options (fn []))\n        updated-draw (fn [state]\n                       (draw state)\n                       (g/save-animation \&quot;conjecture.gif\&quot; 300 0))]\n    (assoc options :draw updated-draw)))&quot;], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Clojure REPL.REPL">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="1" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ClojureScriptRunConfiguration" factoryName="Clojure Script">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="" />
+      <setting name="repl" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="collatz-conjecture" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="REPL" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="1" />
+      <module name="collatz-conjecture" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Clojure REPL.REPL" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13f15391-b93a-4e8b-b745-2e93f0c6a41f" name="Default" comment="" />
+      <created>1492722333807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492722333807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="18" width="1633" height="1062" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28368017" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13799623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910978" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43263966" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16046003" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1628#3041#0" expanded="false" />
+            <element signature="e#3043#5123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/misc.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/mymiddleware.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="30" lean-forward="true" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
+          <folding>
+            <element signature="e#1628#3041#0" expanded="false" />
+            <element signature="e#3043#5123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/misc.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/mymiddleware.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="61" lean-forward="false" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/scratch.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1628#3041#0" expanded="false" />
+            <element signature="e#3043#5123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1628#3041#0" expanded="false" />
+            <element signature="e#3043#5123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1628#3041#0" expanded="false" />
+            <element signature="e#3043#5123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2125">
+          <caret line="125" column="49" lean-forward="false" selection-start-line="125" selection-start-column="49" selection-end-line="125" selection-end-column="49" />
+          <folding>
+            <element signature="e#1628#3041#0" expanded="false" />
+            <element signature="e#3043#5123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1628#3041#0" expanded="false" />
+            <element signature="e#3043#5123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1628#3041#0" expanded="false" />
+            <element signature="e#3043#5123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/mymiddleware.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="42" lean-forward="false" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/misc.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="6" lean-forward="false" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/scratch.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1628#3041#0" expanded="false" />
+            <element signature="e#3043#5123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/mymiddleware.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="42" lean-forward="false" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/misc.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="6" lean-forward="false" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/scratch.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1628#3041#0" expanded="false" />
+            <element signature="e#3043#5123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/misc.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/scratch.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1628#3041#0" expanded="false" />
+            <element signature="e#3043#5123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/misc.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/misc.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="29" />
+          <folding>
+            <element signature="e#1628#3041#0" expanded="false" />
+            <element signature="e#3043#5123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/misc.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="29" />
+          <folding>
+            <element signature="e#1628#3041#0" expanded="false" />
+            <element signature="e#3043#5123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/misc.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1628#3041#0" expanded="false" />
+            <element signature="e#3043#5123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/quil/quil/2.6.0/quil-2.6.0.jar!/quil/core.cljc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57930">
+          <caret line="3862" column="2" lean-forward="false" selection-start-line="3862" selection-start-column="2" selection-end-line="3862" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/misc.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1628#3041#0" expanded="false" />
+            <element signature="e#3043#5123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/quil/quil/2.6.0/quil-2.6.0.jar!/quil/core.cljc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57930">
+          <caret line="3862" column="2" lean-forward="false" selection-start-line="3862" selection-start-column="2" selection-end-line="3862" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar!/java/lang/Thread.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="83" column="30" lean-forward="false" selection-start-line="83" selection-start-column="30" selection-end-line="83" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/clatrix/clatrix/0.5.0/clatrix-0.5.0.jar!/clatrix/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="1001" column="6" lean-forward="false" selection-start-line="1001" selection-start-column="6" selection-end-line="1001" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/gil/gil/1.0.0-SNAPSHOT/gil-1.0.0-SNAPSHOT.jar!/gil/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="110" column="14" lean-forward="false" selection-start-line="110" selection-start-column="14" selection-end-line="110" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/quil/quil/2.6.0/quil-2.6.0.jar!/quil/core.cljc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="4735" column="3" lean-forward="false" selection-start-line="4735" selection-start-column="3" selection-end-line="4735" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.8.0/clojure-1.8.0.jar!/clojure/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="2931" column="6" lean-forward="false" selection-start-line="2931" selection-start-column="6" selection-end-line="2931" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.8.0/clojure-1.8.0.jar!/clojure/zip.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="108" column="7" lean-forward="false" selection-start-line="108" selection-start-column="7" selection-end-line="108" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/misc.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/scratch.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/mymiddleware.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collatz_conjecture/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding>
+            <element signature="e#1628#3041#0" expanded="false" />
+            <element signature="e#3043#5123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
